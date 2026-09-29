@@ -1,3 +1,5 @@
 opencv-puthon
 mediapipe
 pyautogui
+pynput
+numpy
